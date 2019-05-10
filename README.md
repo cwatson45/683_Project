@@ -8,7 +8,7 @@ Tong Xu
 How to Run Code:
 
 Requirements:
-	Unity version 2018.2.14f
+	Unity version 2018.2.14f \
 	ML-Agents toolkit 
 
 Detailed and illustrated instructions for running the code 
