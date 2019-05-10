@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 23d7a5ae647066a4799e31a32b0704da
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Trained Models/Test1.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

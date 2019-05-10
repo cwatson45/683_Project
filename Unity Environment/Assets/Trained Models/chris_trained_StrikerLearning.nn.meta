@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c85ef8bddb47e474199fe67292a59b42
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Trained Models/chris_trained_StrikerLearning.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

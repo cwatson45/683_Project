@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8561af4b6072ef54eb4e21c04857540b
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/ML-Agents/Examples/WallJump/TFModels/PUSH1.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

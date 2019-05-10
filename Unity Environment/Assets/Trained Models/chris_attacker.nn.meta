@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 103c01ec5fc3f4641bdcf7fe45d1a4ae
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Trained Models/chris_attacker.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

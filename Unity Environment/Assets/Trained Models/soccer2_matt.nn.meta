@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ef8e720d8c3b56745b90fb1fa143d190
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400002: Assets/Trained Models/soccer2_matt.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

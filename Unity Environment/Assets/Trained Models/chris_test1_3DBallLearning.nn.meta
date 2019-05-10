@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 12d38ad8657865949960a15911b3ec0b
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Trained Models/chris_test1_3DBallLearning.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
