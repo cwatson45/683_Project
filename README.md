@@ -1,8 +1,8 @@
 UMass CS 683 Artificial Intelligence
-Project Files
+Project Files\
 Christopher Watson \
 Matt Russiello \
-Tong Xu\
+Tong Xu
 
 
 How to Run Code:
