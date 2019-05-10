@@ -7,7 +7,7 @@ Tong Xu
 
 How to Run Code:
 
-Requirements:
+Requirements: \
 	Unity version 2018.2.14f \
 	ML-Agents toolkit 
 
