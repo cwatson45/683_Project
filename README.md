@@ -1,5 +1,11 @@
-# 683_Project
-_README.txt
+UMass CS 683 Artificial Intelligence
+Project Files
+Christopher Watson
+Matt Russiello
+Tong Xu
+
+
+How to Run Code:
 
 Requirements:
 	Unity version 2018.2.14f
